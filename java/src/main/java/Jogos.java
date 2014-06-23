@@ -19,11 +19,7 @@ public class Jogos{
             if (jogo.getString("status").equals("completed")) {
                 JSONObject home_team = jogo.getJSONObject("home_team");
                 JSONObject away_team = jogo.getJSONObject("away_team");
-                System.out.format("%s %s vs %s %s\n",
-                        home_team.getString("country"),
-                        home_team.getInt("goals"),
-                        away_team.getString("country"),
-                        away_team.getInt("goals"));
+                System.out.format("%s %d vs %s %d\n", home_team.getString("country"), home_team.getInt("goals"), away_team.getString("country"), away_team.getInt("goals"));
             }
         }
     }
