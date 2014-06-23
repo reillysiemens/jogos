@@ -1,6 +1,4 @@
-import urllib.request
-import json
-resp = urllib.request.urlopen('http://worldcup.sfg.io/matches').read()
-for jogo in json.loads(resp.decode('utf-8')):
-    if jogo['status'] == 'completed':
-        print (jogo['home_team']['country'], jogo['home_team']['goals'], 'vs', jogo['away_team']['country'], jogo['away_team']['goals'])
+from json import loads as lds
+from urllib.request import urlopen as uop
+print("\n".join([" vs ".join(map(lambda x: x['country']+" "+str(x['goals']),(i['home_team'], i['away_team']))) 
+    for i in lds(ruop('http://worldcup.sfg.io/matches').read().decode('utf-8')) if i['status']=='completed']))
