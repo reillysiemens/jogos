@@ -2,7 +2,6 @@ jogos
 =====
 
 A multilingual World Cup inspired by [fmasanori]'s [gist][fmasanori-gist].
-I have included the [source](/python/jogos.py) for his Python.
 
 Much thanks to [RadicalZephyr] for his help writing the Clojure and Java implementations.
 
