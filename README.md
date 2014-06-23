@@ -9,7 +9,7 @@ Much thanks to [RadicalZephyr] for his help writing the Clojure and Java impleme
 Python
 ------
 
-Written by [fmasanori].
+Written by [PhillipNordwal].
 ```
 cd python && python3 jogos.py
 ```
@@ -52,6 +52,6 @@ Haskell
 Not yet implemented.
 
 [fmasanori]: https://github.com/fmasanori
-[jogos.py]: https://gist.github.com/fmasanori/1288160dad16cc473a53
 [RadicalZephyr]: https://github.com/RadicalZephyr
 [reillysiemens]: https://github.com/reillysiemens
+[PhillipNordwal]: https://github.com/PhillipNordwal
