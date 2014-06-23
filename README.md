@@ -46,6 +46,12 @@ Written by [reillysiemens] and [RadicalZephyr].
 cd java && gradle exec
 ```
 
+C#
+--
+
+Written by [fuginator].
+* build using your desired tools.
+
 Haskell
 -------
 
@@ -55,3 +61,4 @@ Not yet implemented.
 [jogos.py]: https://gist.github.com/fmasanori/1288160dad16cc473a53
 [RadicalZephyr]: https://github.com/RadicalZephyr
 [reillysiemens]: https://github.com/reillysiemens
+[fuginator]: https://github.com/fuginator
