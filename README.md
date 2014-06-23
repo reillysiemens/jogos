@@ -52,6 +52,12 @@ C#
 Written by [fuginator].
 * build using your desired tools.
 
+VB.NET
+------
+
+Written by [fuginator].
+* build using your desired tools.
+
 Haskell
 -------
 
