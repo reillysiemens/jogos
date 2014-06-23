@@ -1,8 +1,8 @@
-(defproject jogos "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
+(defproject jogos "1.0.0"
+  :description "Display completed World Cup games."
   :url "http://example.com/FIXME"
-  :license {:name "Eclipse Public License"
-            :url "http://www.eclipse.org/legal/epl-v10.html"}
+  :license {:name "MIT"
+            :url "https://github.com/reillysiemens/jogos/blob/master/LICENSE"}
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [org.clojure/data.json "0.2.5"]
                  [clj-http "0.9.2"]]
