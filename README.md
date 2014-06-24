@@ -1,7 +1,7 @@
 jogos
 =====
 
-A multilingual World Cup inspired by [fmasanori]'s [gist][fmasanori-gist].
+A World Cup chrestomathy inspired by [fmasanori]'s [gist][fmasanori-gist].
 
 Much thanks to [RadicalZephyr] for his help writing the Clojure and Java implementations.
 
