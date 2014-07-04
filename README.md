@@ -5,6 +5,14 @@ A World Cup chrestomathy inspired by [fmasanori]'s [gist][fmasanori-gist].
 
 Much thanks to [RadicalZephyr] for his help writing the Clojure and Java implementations.
 
+Racket
+------
+
+Written by [PhillipNordwal].
+```
+cd racket && racket jogos.rkt
+```
+
 Python
 ------
 
